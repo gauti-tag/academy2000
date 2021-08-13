@@ -34,7 +34,7 @@
 						</div>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Préincription</a>
+						<a class="nav-link" href="#">Préinscription</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">Certificats</a>
